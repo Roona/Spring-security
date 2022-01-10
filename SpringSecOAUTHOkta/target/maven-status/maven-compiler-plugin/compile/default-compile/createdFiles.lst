@@ -1,0 +1,3 @@
+com\springsec\oauth\config\SpringSecOAUTHGitHubConfig.class
+com\springsec\oauth\controllers\SecureController.class
+com\springsec\oauth\SpringSecOAUTHOkta.class
